@@ -1,0 +1,6 @@
+com.example.demo.test.app-tracing-1.2.0-0 C:\Users\nccc_02\.gradle\caches\8.9\transforms\3f8d874fe52ffe1674d421591a893d65\transformed\tracing-1.2.0\res
+com.example.demo.test.app-core-1.6.1-1 C:\Users\nccc_02\.gradle\caches\8.9\transforms\d6d1137360552e9d430d07472bd8df48\transformed\core-1.6.1\res
+com.example.demo.test.app-androidTest-2 C:\Users\nccc_02\AndroidStudioProjects\demo3\app\build\generated\res\resValues\androidTest\debug
+com.example.demo.test.app-mergeDebugAndroidTestResources-3 C:\Users\nccc_02\AndroidStudioProjects\demo3\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.demo.test.app-mergeDebugAndroidTestResources-4 C:\Users\nccc_02\AndroidStudioProjects\demo3\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.demo.test.app-debugAndroidTest-5 C:\Users\nccc_02\AndroidStudioProjects\demo3\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

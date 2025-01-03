@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="status">
+        <item>啟用</item>
+        <item>停用</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="purple_700">#6200EE</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">demo</string>
+    <style name="Base.Theme.Demo" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Demo" parent="Base.Theme.Demo"/>
+</resources>
